@@ -1,0 +1,10 @@
+C:\Users\sebas\source\repos\sinozicSebastianWebBrowser\sinozicSebastianWebBrowser\bin\Debug\sinozicSebastianWebBrowser.exe.config
+C:\Users\sebas\source\repos\sinozicSebastianWebBrowser\sinozicSebastianWebBrowser\bin\Debug\sinozicSebastianWebBrowser.exe
+C:\Users\sebas\source\repos\sinozicSebastianWebBrowser\sinozicSebastianWebBrowser\bin\Debug\sinozicSebastianWebBrowser.pdb
+C:\Users\sebas\source\repos\sinozicSebastianWebBrowser\sinozicSebastianWebBrowser\obj\Debug\sinozicSebastianWebBrowser.csprojAssemblyReference.cache
+C:\Users\sebas\source\repos\sinozicSebastianWebBrowser\sinozicSebastianWebBrowser\obj\Debug\sinozicSebastianWebBrowser.Form1.resources
+C:\Users\sebas\source\repos\sinozicSebastianWebBrowser\sinozicSebastianWebBrowser\obj\Debug\sinozicSebastianWebBrowser.Properties.Resources.resources
+C:\Users\sebas\source\repos\sinozicSebastianWebBrowser\sinozicSebastianWebBrowser\obj\Debug\sinozicSebastianWebBrowser.csproj.GenerateResource.cache
+C:\Users\sebas\source\repos\sinozicSebastianWebBrowser\sinozicSebastianWebBrowser\obj\Debug\sinozicSebastianWebBrowser.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\sinozicSebastianWebBrowser\sinozicSebastianWebBrowser\obj\Debug\sinozicSebastianWebBrowser.exe
+C:\Users\sebas\source\repos\sinozicSebastianWebBrowser\sinozicSebastianWebBrowser\obj\Debug\sinozicSebastianWebBrowser.pdb
